@@ -11,4 +11,4 @@ D - Вправо;
 Уровни это скрипты на Python где вывод программы падает сверху на игрока. Также на них есть музыка в формате mp3 и фон уровня в формате png.
 
 # Блок схема игры
-![Блок схема](https://github.com/ProgrammsStorge/PyDrop/blob/99565079eb3f637209a728c008d632b856318f53/Images/diagram.png)
+![Блок схема](https://github.com/ProgrammsStorge/PyDrop/blob/main/Images/diagram.png)

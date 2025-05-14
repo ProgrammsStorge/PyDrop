@@ -1,0 +1,1 @@
+standartDownloadUrl="https://raw.githubusercontent.com/MrCubeCode/PythonInterGame/refs/heads/main/"

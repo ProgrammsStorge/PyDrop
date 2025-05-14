@@ -12,3 +12,6 @@ D - Вправо;
 
 # Блок схема игры
 ![Блок схема](https://github.com/ProgrammsStorge/PyDrop/blob/main/Images/diagram.png)
+
+# Презентация
+https://github.com/ProgrammsStorge/PyDrop/blob/main/Presentation.pptx
